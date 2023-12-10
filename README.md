@@ -1,70 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2023-09-08 214933](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/4efa0593-8625-44c0-ae08-8df3ed5b2d46)
+![Screenshot 2023-09-08 215207](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/c871a358-134f-4179-9926-37be2e824a86)
+![Screenshot 2023-09-08 215223](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/9d7814cd-8bec-4d01-aaf7-8ea813cf03ca)
+![Screenshot 2023-12-10 110121](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/69cc9485-49bb-492d-8889-8d9141d6cf73)
+![Screenshot 2023-12-10 110145](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/7e278b81-0cd3-4516-bfa6-175c43992476)
+![Screenshot 2023-12-10 110202](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/a42f6edd-47a6-404d-8d20-b1ad2479eefc)
+![Screenshot 2023-12-10 110211](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/01576b1f-6aef-4e8b-a2be-b160545874b3)
+![Screenshot 2023-12-10 110234](https://github.com/Melroysalins/MultiLanguage-MovieAPP/assets/125199392/d6df5895-691b-401b-9635-6c8688b10d3d)
