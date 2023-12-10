@@ -1,0 +1,68 @@
+.video_cards{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+   
+}
+.section_title{
+    display: flex;
+    padding: 5px;
+    font-size: 18px;
+}
+.card_1{
+   
+    width: 230px;
+    display: flex;
+    border-radius: 6px;
+    margin-left: 4px;
+}
+
+
+
+.movie_card_grid{
+    display: grid;
+  
+    width: 100%;
+    grid-template-columns: repeat(20,1fr);
+    padding: 5px;
+    column-gap: 15px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    overflow-y: hidden;
+}
+.movie_card_grid a{
+    list-style: none;
+    text-decoration: none;
+}
+.First_Card{
+    width: 220px;
+    border: 1px solid rgb(115, 115, 115);
+    display: flex;
+    cursor: pointer;
+    border-radius: 6px;
+    flex-direction: column;
+}
+.card_image{
+    display: flex;
+    width: 100%;
+    border-radius: 6px;
+    height: 100%;
+}
+.card_image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+}
+
+.First_Card:hover{
+    transform: scale(1.1);
+    transition: all 3ms ease-in-out;
+}
+
+@media (max-width : 530px){
+    .First_Card{
+        width: 170px;
+        height: 200px;
+        margin-bottom: 14px;
+    }
+}

@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #000;
+    color: white;
+}
+.profile_page-Section{
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+.logout_div{
+
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.logout_div button{
+    background: rgb(238, 37, 37);
+    border: none;
+    padding: 3px 12px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.logout_div button:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
